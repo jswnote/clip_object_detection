@@ -1,0 +1,1 @@
+# clip_object_detection
