@@ -8,5 +8,5 @@
 
 kornia_moons : (https://pypi.org/project/kornia-moons/) requires python version >= 3.7     
 
-할 일 : 히스토그램 막대.
+할 일 : 히스토그램 막대.    
 sift or superglue matching.
