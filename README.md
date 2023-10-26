@@ -13,4 +13,4 @@
 
 할 일    
   - ~~히스토그램 막대.~~    
-  - ___sift or superglue matching.___
+  - ~~~sift or superglue matching.~~~
