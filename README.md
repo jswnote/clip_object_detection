@@ -7,6 +7,7 @@
 - [tf-idf](https://wikidocs.net/31698)
 - [cosine similarity](https://wikidocs.net/24603)
 - (https://github.com/siyandong/awesome-visual-localization#pose-regression).
+- (https://github.com/youkely/awesome-visual-localization).    
 - ~~kornia_moons : (https://pypi.org/project/kornia-moons/) requires python version >= 3.7~~     
 
 
