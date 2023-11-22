@@ -11,5 +11,6 @@
 - [Image retrieval](https://slamwithme.oopy.io/15beedca-2abb-4c4a-91cf-cef215af2651).
 - [Visual localization 방향](https://www.cv-learn.com/20210405-visloc-my-thoughts/).
 - [Visual localization 방법](https://www.cv-learn.com/20210405-naver-labs-visloc/).
-- [Visual localization dataset](https://www.visuallocalization.net/).       
+- [Visual localization dataset](https://www.visuallocalization.net/).
+- [참고 블로그](https://ambitious-posong.tistory.com/150#google_vignette).   
 - ~~kornia_moons : (https://pypi.org/project/kornia-moons/) requires python version >= 3.7~~     
